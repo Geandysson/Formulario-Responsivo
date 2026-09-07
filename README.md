@@ -28,14 +28,14 @@ Este projeto é um formulário de cadastro com foco em **responsividade e organi
       <img src="assets/img/preview-desk.png" width="420">
     </td>
     <td align="center" rowspan="2">
-      <b>Tablet</b><br>
-      <img src="assets/img/preview-tablet.png" width="420">
+      <b>Mobile</b><br>
+      <img src="assets/img/preview-mobile.png" width="420">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>Mobile</b><br>
-      <img src="assets/img/preview-mobile.png" width="420">
+      <b>Tablet</b><br>
+      <img src="assets/img/preview-tablet.png" width="420">
     </td>
   </tr>
 </table>
